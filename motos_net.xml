@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?> 
+<!-- Aqui enlazamos el xml cin el xsl para poder visualizarlo-->
+<motos>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/31/7716097/21884237_g.jpg/252x172cut/</imagen>
+    <precio>7490 €</precio>
+    <nombre>RIEJU MR Racing 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 10:31</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/21/7640333/21284161_g.jpg/252x172cut/</imagen>
+    <precio>3285 €</precio>
+    <nombre>RIEJU MRT 50</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>25/01 08:18</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/11/30/7671930/21575861_g.jpg/252x172cut/</imagen>
+    <precio>8900 €</precio>
+    <nombre>GAS GAS EC 350 F</nombre>
+    <lugar>Alicante</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>05/02 14:05</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/31/7716242/21885488_g.jpg/252x172cut/</imagen>
+    <precio>3689 €</precio>
+    <nombre>FB MONDIAL SMX 125 Enduro</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 10:23</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/21/7640332/21284140_g.jpg/252x172cut/</imagen>
+    <precio>8849 €</precio>
+    <nombre>RIEJU MR Pro 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>02/02 06:31</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/06/21/7520955/20607074_g.jpg/252x172cut/</imagen>
+    <precio>10.049 €</precio>
+    <nombre>HUSQVARNA TE 250i</nombre>
+    <lugar>Tarragona</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Hoy 09:47</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/21/7640359/21284453_g.jpg/252x172cut/</imagen>
+    <precio>3285 €</precio>
+    <nombre>RIEJU MRT 50</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Hoy 05:09</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/02/09/7724950/21954726_g.jpg/252x172cut/</imagen>
+    <precio></precio>
+    <nombre>BETA RR Racing 2T 250</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 20:08</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/02/09/7724859/21953985_g.jpg/252x172cut/</imagen>
+    <precio>9499 €</precio>
+    <nombre>SHERCO 300 SE-R FACTORY</nombre>
+    <lugar>Badajoz</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 18:51</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/02/25/7393030/19996595_g.jpg/252x172cut/</imagen>
+    <precio>10.590 €</precio>
+    <nombre>HONDA CRF 300 RX</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 15:30</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/09/23/7612874/21107496_g.jpg/252x172cut/</imagen>
+    <precio>12.900 €</precio>
+    <nombre>KTM 300 EXC TPI ERZBERGRODEO</nombre>
+    <lugar>A Coruña</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 12:36</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/06/03/7502098/21101503_g.jpg/252x172cut/</imagen>
+    <precio>12.900 €</precio>
+    <nombre>KTM 300 EXC TPI ERZBERGRODEO</nombre>
+    <lugar>A Coruña</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 12:35</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/31/7716097/21884237_g.jpg/252x172cut/</imagen>
+    <precio>7490 €</precio>
+    <nombre>RIEJU MR Racing 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 10:31</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/31/7716242/21885488_g.jpg/252x172cut/</imagen>
+    <precio>3689 €</precio>
+    <nombre>FB MONDIAL SMX 125 Enduro</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 10:23</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/07/15/7658261/21431880_g.jpg/252x172cut/</imagen>
+    <precio>9199 €</precio>
+    <nombre>RIEJU MR Pro 300</nombre>
+    <lugar>Barcelona</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 09:46</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/02/08/7724080/21948120_g.jpg/252x172cut/</imagen>
+    <precio>11.499 €</precio>
+    <nombre>KTM 500 EXC-F</nombre>
+    <lugar>Navarra</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 21:30</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/12/15/7682660/21661789_g.jpg/252x172cut/</imagen>
+    <precio>12.039 €</precio>
+    <nombre>KTM 450 EXC-F Six Days</nombre>
+    <lugar>Navarra</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 21:28</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/13/7633423/21230545_g.jpg/252x172cut/</imagen>
+    <precio>12.489 €</precio>
+    <nombre>KTM 350 EXC-F WESS</nombre>
+    <lugar>Navarra</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 21:26</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/14/7634501/21239333_g.jpg/252x172cut/</imagen>
+    <precio>11.840 €</precio>
+    <nombre>KTM 350 EXC-F Six Days</nombre>
+    <lugar>Navarra</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 21:25</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/07/30/7562906/20816109_g.jpg/252x172cut/</imagen>
+    <precio>11.099 €</precio>
+    <nombre>KTM 300 EXC TPI Six Days</nombre>
+    <lugar>Navarra</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 20:59</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/01/20/7357772/19820124_g.jpg/252x172cut/</imagen>
+    <precio>8549 €</precio>
+    <nombre>RIEJU MR Pro 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 20:30</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/03/25/7424138/20141153_g.jpg/252x172cut/</imagen>
+    <precio>4949 €</precio>
+    <nombre>RIEJU MARATHON 125 PRO</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 20:28</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/06/18/7518701/20598289_g.jpg/252x172cut/</imagen>
+    <precio>8590 €</precio>
+    <nombre>BETA RR 430</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 14:56</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/06/18/7518699/20598284_g.jpg/252x172cut/</imagen>
+    <precio>7890 €</precio>
+    <nombre>BETA RR 250 ENDURO 2T</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 14:54</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/18/7637777/21264893_g.jpg/252x172cut/</imagen>
+    <precio>4299 €</precio>
+    <nombre>APRILIA RX 125</nombre>
+    <lugar>Asturias</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 14:21</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/21/7640332/21284140_g.jpg/252x172cut/</imagen>
+    <precio>8849 €</precio>
+    <nombre>RIEJU MR Pro 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>02/02 06:31</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/26/7712533/21861238_g.jpg/252x172cut/</imagen>
+    <precio>5890 €</precio>
+    <nombre>FANTIC XEF 250 Trail</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>01/02 20:06</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/10/18/7637080/21259135_g.jpg/252x172cut/</imagen>
+    <precio>8500 €</precio>
+    <nombre>GAS GAS EC 250</nombre>
+    <lugar>Alicante</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>01/02 16:01</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2020/10/21/7698897/21767597_g.jpg/252x172cut/</imagen>
+    <precio>9590 €</precio>
+    <nombre>GAS GAS EC 250 F</nombre>
+    <lugar>Badajoz</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>18/01 20:56</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2020/11/07/7299430/19530866_g.jpg/252x172cut/</imagen>
+    <precio>3299 €</precio>
+    <nombre>MALAGUTI XTM 125</nombre>
+    <lugar>Córdoba</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2020</anio>
+    <estado>Nuevo</estado>
+    <publicacion>18/01 19:06</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/18/7705686/21814644_g.jpg/252x172cut/</imagen>
+    <precio>10.200 €</precio>
+    <nombre>TM EN 300</nombre>
+    <lugar>Barcelona</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>18/01 13:42</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/12/20/7685870/21683272_g.jpg/252x172cut/</imagen>
+    <precio>9369 €</precio>
+    <nombre>HUSQVARNA TE 150i</nombre>
+    <lugar>Baleares</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>20/12 19:07</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/12/20/7685781/21682404_g.jpg/252x172cut/</imagen>
+    <precio>10.229 €</precio>
+    <nombre>HUSQVARNA TE 300i</nombre>
+    <lugar>Baleares</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>20/12 17:45</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/12/20/7685728/21682089_g.jpg/252x172cut/</imagen>
+    <precio>11.839 €</precio>
+    <nombre>HUSQVARNA FE 501</nombre>
+    <lugar>Baleares</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>20/12 16:50</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/11/30/7671930/21575861_g.jpg/252x172cut/</imagen>
+    <precio>8900 €</precio>
+    <nombre>GAS GAS EC 350 F</nombre>
+    <lugar>Alicante</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>05/02 14:05</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/06/19/7519437/20601421_g.jpg/252x172cut/</imagen>
+    <precio>6945 €</precio>
+    <nombre>SWM RS 500 R</nombre>
+    <lugar>Burgos</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>01/02 15:06</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/01/31/7716097/21884237_g.jpg/252x172cut/</imagen>
+    <precio>7490 €</precio>
+    <nombre>RIEJU MR Racing 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>Ayer 10:31</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/02/04/7720483/21923671_g.jpg/252x172cut/</imagen>
+    <precio>10.329 €</precio>
+    <nombre>GAS GAS EC 350 F</nombre>
+    <lugar>Almería</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 13:54</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/07/20/7551241/20771677_g.jpg/252x172cut/</imagen>
+    <precio>8790 €</precio>
+    <nombre>FANTIC XE 125</nombre>
+    <lugar>Sevilla</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 11:30</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2022/02/08/7723318/21942195_g.jpg/252x172cut/</imagen>
+    <precio>3822 €</precio>
+    <nombre>RIEJU MRT 50 Pro</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2022</anio>
+    <estado>Nuevo</estado>
+    <publicacion>08/02 09:01</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/03/25/7424139/20141172_g.jpg/252x172cut/</imagen>
+    <precio>3285 €</precio>
+    <nombre>RIEJU MRT 50</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>04/02 17:43</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/09/16/7605064/21062442_g.jpg/252x172cut/</imagen>
+    <precio>3849 €</precio>
+    <nombre>RIEJU MRT 125 AC</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>04/02 17:42</publicacion>
+  </row>
+  <row>
+    <imagen>https://a.mcdn.es/mnet/2021/01/20/7357646/19819207_g.jpg/252x172cut/</imagen>
+    <precio>7949 €</precio>
+    <nombre>RIEJU MR Racing 300</nombre>
+    <lugar>Madrid</lugar>
+    <combustible>Gasolina</combustible>
+    <anio>2021</anio>
+    <estado>Nuevo</estado>
+    <publicacion>04/02 17:39</publicacion>
+  </row>
+</motos>
